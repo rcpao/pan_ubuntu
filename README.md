@@ -1,6 +1,6 @@
-# README.md -- pan_ubuntu 
+# pan_ubuntu 
 
-Build script for GNOME Pan Newsreader v0.165 for Ubuntu 24.04.4 from
+Build script for GNOME Pan Newsreader v0.165 for Ubuntu 24.04 from
 https://gitlab.gnome.org/GNOME/pan.git
 
 ## Build
